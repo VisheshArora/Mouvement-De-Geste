@@ -1,8 +1,3 @@
 # Mouvement-De-Geste
-Building a cheaper hand-gesture controller for interactive gaming.
 
-```ruby
-  def foo
-    puts 'bar'
-  end
-```
+Hand gestures controlled bot for implementing a simple human-machine interface using image processing and computer vision. This project was showcased in TechEvince, Technical Board, IIT Guwahati as a simple demonstration of human-machine interface.
